@@ -1,0 +1,17 @@
+D:\School\CST-326\repo\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.exe
+D:\School\CST-326\repo\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.deps.json
+D:\School\CST-326\repo\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.runtimeconfig.json
+D:\School\CST-326\repo\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.dll
+D:\School\CST-326\repo\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.pdb
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.Form1.resources
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.csproj.GenerateResource.cache
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.AssemblyInfoInputs.cache
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.AssemblyInfo.cs
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.csproj.CoreCompileInputs.cache
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.sourcelink.json
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.dll
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\refint\BookInventoryApp.dll
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.pdb
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.genruntimeconfig.cache
+D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\ref\BookInventoryApp.dll
