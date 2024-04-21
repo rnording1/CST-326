@@ -15,3 +15,22 @@ D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\refint\
 D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.pdb
 D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.genruntimeconfig.cache
 D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\ref\BookInventoryApp.dll
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.exe
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.deps.json
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.runtimeconfig.json
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.dll
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.pdb
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.Form1.resources
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.landingPage.resources
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.Properties.Resources.resources
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.csproj.GenerateResource.cache
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.AssemblyInfoInputs.cache
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.AssemblyInfo.cs
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.csproj.CoreCompileInputs.cache
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.sourcelink.json
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.dll
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\refint\BookInventoryApp.dll
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.pdb
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.genruntimeconfig.cache
+E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\ref\BookInventoryApp.dll

@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookInventoryApp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51082ab950931315eeb3949fe88e752dcb4f233e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3f023a32c11c5667e705f59b83bb81c06cf233e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookInventoryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookInventoryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
