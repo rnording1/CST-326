@@ -20,6 +20,8 @@ obj/
 .vs/
 
 # Local DB files
+*.mdf
+*.ldf
 
 # NuGet Packages Directory
 **/packages/*
