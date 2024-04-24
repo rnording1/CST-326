@@ -31,7 +31,6 @@ namespace BookInventoryApp
                                 if (storedPassword == textBox2.Text)
                                 {
                                     landingPage landingForm = new landingPage();
-                                    this.Hide();
                                     landingForm.Show();
                                 }
                                 else

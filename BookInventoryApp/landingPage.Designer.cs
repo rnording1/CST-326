@@ -65,6 +65,7 @@
             roundedButton1.Text = "Add";
             roundedButton1.TextColor = Color.FromArgb(7, 26, 26);
             roundedButton1.UseVisualStyleBackColor = false;
+            roundedButton1.Click += roundedButton1_Click;
             // 
             // roundedButton2
             // 
@@ -84,6 +85,7 @@
             roundedButton2.Text = "Edit";
             roundedButton2.TextColor = Color.FromArgb(7, 26, 26);
             roundedButton2.UseVisualStyleBackColor = false;
+            roundedButton2.Click += roundedButton2_Click;
             // 
             // roundedButton3
             // 
@@ -103,6 +105,7 @@
             roundedButton3.Text = "Delete";
             roundedButton3.TextColor = Color.FromArgb(7, 26, 26);
             roundedButton3.UseVisualStyleBackColor = false;
+            roundedButton3.Click += roundedButton3_Click;
             // 
             // panel1
             // 
@@ -218,12 +221,18 @@
             // 
             // dataGridView1
             // 
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.BackgroundColor = Color.FromArgb(172, 186, 186);
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(12, 287);
             dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dataGridView1.Size = new Size(1248, 532);
             dataGridView1.TabIndex = 8;
+            dataGridView1.SelectionChanged += dataGridView1_SelectionChanged;
             // 
             // landingPage
             // 
