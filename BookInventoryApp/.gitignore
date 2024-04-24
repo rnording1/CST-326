@@ -19,10 +19,6 @@ obj/
 # Visual Studio 2015+ cache/options directory
 .vs/
 
-# Local DB files
-*.mdf
-*.ldf
-
 # NuGet Packages Directory
 **/packages/*
 
