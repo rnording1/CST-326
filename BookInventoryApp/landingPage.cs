@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -25,9 +26,7 @@ namespace BookInventoryApp
 
         private void LoadBooksIntoDataGridView()
         {
-            string databaseFile = "BookInventoryDB.mdf";
-            string databasePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, databaseFile);
-            string connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={databasePath};Integrated Security=True;Connect Timeout=30";
+            string connectionString = ConfigurationManager.ConnectionStrings["dbConn"].ConnectionString;
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 try

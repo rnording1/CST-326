@@ -45,3 +45,4 @@ D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInv
 D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInventoryApp.Properties.Resources.resources
 D:\School\CST-326\repo\CST-326\BookInventoryApp\obj\Debug\net8.0-windows\BookInve.1968F7E2.Up2Date
 D:\School\CST-326\repo\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryDB.mdf
+D:\School\CST-326\repo\CST-326\BookInventoryApp\bin\Debug\net8.0-windows\BookInventoryApp.dll.config

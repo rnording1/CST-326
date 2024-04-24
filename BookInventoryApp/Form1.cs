@@ -1,3 +1,4 @@
+using System.Configuration;
 using System.Data.SqlClient;
 
 namespace BookInventoryApp
@@ -11,9 +12,7 @@ namespace BookInventoryApp
 
         private void roundedButton1_Click(object sender, EventArgs e)
         {
-            string databaseFile = "BookInventoryDB.mdf";
-            string databasePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, databaseFile);
-            string connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={databasePath};Integrated Security=True;Connect Timeout=30";
+            string connectionString = ConfigurationManager.ConnectionStrings["dbConn"].ConnectionString;
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
