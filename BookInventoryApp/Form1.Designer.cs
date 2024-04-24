@@ -40,7 +40,7 @@
             roundedButton1.BackColor = Color.FromArgb(198, 220, 220);
             roundedButton1.BackgroundColor = Color.FromArgb(198, 220, 220);
             roundedButton1.BorderColor = Color.FromArgb(95, 115, 115);
-            roundedButton1.BorderRadius = 65;
+            roundedButton1.BorderRadius = 40;
             roundedButton1.BorderSize = 2;
             roundedButton1.FlatAppearance.BorderSize = 0;
             roundedButton1.FlatStyle = FlatStyle.Flat;
@@ -49,22 +49,24 @@
             roundedButton1.Location = new Point(141, 254);
             roundedButton1.Name = "roundedButton1";
             roundedButton1.Size = new Size(179, 65);
-            roundedButton1.TabIndex = 0;
+            roundedButton1.TabIndex = 2;
             roundedButton1.Text = "Login";
             roundedButton1.TextColor = Color.FromArgb(7, 26, 26);
             roundedButton1.UseVisualStyleBackColor = false;
+            roundedButton1.Click += roundedButton1_Click;
             // 
             // textBox1
             // 
             textBox1.Location = new Point(83, 168);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(295, 23);
-            textBox1.TabIndex = 1;
+            textBox1.TabIndex = 0;
             // 
             // textBox2
             // 
             textBox2.Location = new Point(83, 211);
             textBox2.Name = "textBox2";
+            textBox2.PasswordChar = '*';
             textBox2.Size = new Size(295, 23);
             textBox2.TabIndex = 1;
             // 
@@ -91,6 +93,7 @@
             FormBorderStyle = FormBorderStyle.Fixed3D;
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

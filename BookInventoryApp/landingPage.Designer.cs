@@ -52,7 +52,7 @@
             roundedButton1.BackColor = Color.FromArgb(198, 220, 220);
             roundedButton1.BackgroundColor = Color.FromArgb(198, 220, 220);
             roundedButton1.BorderColor = Color.FromArgb(95, 115, 115);
-            roundedButton1.BorderRadius = 75;
+            roundedButton1.BorderRadius = 40;
             roundedButton1.BorderSize = 2;
             roundedButton1.FlatAppearance.BorderSize = 0;
             roundedButton1.FlatStyle = FlatStyle.Flat;
@@ -71,7 +71,7 @@
             roundedButton2.BackColor = Color.FromArgb(198, 220, 220);
             roundedButton2.BackgroundColor = Color.FromArgb(198, 220, 220);
             roundedButton2.BorderColor = Color.FromArgb(95, 115, 115);
-            roundedButton2.BorderRadius = 75;
+            roundedButton2.BorderRadius = 40;
             roundedButton2.BorderSize = 2;
             roundedButton2.FlatAppearance.BorderSize = 0;
             roundedButton2.FlatStyle = FlatStyle.Flat;
@@ -90,7 +90,7 @@
             roundedButton3.BackColor = Color.FromArgb(198, 220, 220);
             roundedButton3.BackgroundColor = Color.FromArgb(198, 220, 220);
             roundedButton3.BorderColor = Color.FromArgb(95, 115, 115);
-            roundedButton3.BorderRadius = 75;
+            roundedButton3.BorderRadius = 40;
             roundedButton3.BorderSize = 2;
             roundedButton3.FlatAppearance.BorderSize = 0;
             roundedButton3.FlatStyle = FlatStyle.Flat;
@@ -240,6 +240,7 @@
             FormBorderStyle = FormBorderStyle.Fixed3D;
             Name = "landingPage";
             Text = "landingPage";
+            Load += landingPage_Load;
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             panel3.ResumeLayout(false);

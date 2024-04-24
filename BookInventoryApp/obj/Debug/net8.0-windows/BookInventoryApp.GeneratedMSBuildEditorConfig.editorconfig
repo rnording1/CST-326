@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookInventoryApp
-build_property.ProjectDir = E:\School\OneDrive - Grand Canyon University\School\CST-326 Written and verbal communication for software development\MileStone CLC\CST-326\BookInventoryApp\
+build_property.ProjectDir = D:\School\CST-326\repo\CST-326\BookInventoryApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
