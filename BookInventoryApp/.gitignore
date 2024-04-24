@@ -64,8 +64,3 @@ StyleCopReport.xml
 *.log
 *.vspscc
 *.vssscc
-*.exe
-*.dll
-*.pdb
-*.mdf
-*.ldf
