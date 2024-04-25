@@ -227,6 +227,7 @@
             dataGridView1.BackgroundColor = Color.FromArgb(172, 186, 186);
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(12, 287);
+            dataGridView1.MultiSelect = false;
             dataGridView1.Name = "dataGridView1";
             dataGridView1.ReadOnly = true;
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
